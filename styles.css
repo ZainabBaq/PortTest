@@ -1,0 +1,21 @@
+.header {
+  background-color: #faf3f3;
+  margin: 10px;
+  border-radius: 8px;
+  padding: 1px 10px 5px 10px;
+  border: 2px solid #a7bbc7;
+}
+
+.container-fluid {
+  height: 100%;
+  background-color: #e1e5ea;
+}
+
+.image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+span:hover {
+  color: red;
+}
